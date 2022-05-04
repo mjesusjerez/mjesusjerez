@@ -1,6 +1,6 @@
 ### Jesu por aquí! 👋
 
-Soy Front-end developer, mi vocación nació entre una combinación del gusto por los videojuegos y mi ganas de comprender lo complejo del lenguaje y la comunicación. Estudié lingüística hasta que encontré el cruce de ambos mundos en la programación✨
+Soy Front-end developer, mi vocación nació entre una combinación del gusto por los videojuegos y mis ganas de comprender lo complejo del lenguaje y la comunicación. Estudié lingüística hasta que encontré el cruce de ambos mundos en la programación✨
 
 En mis tiempos libres disfruto de un buen álbum de música, un videojuego o una película 😊
 
@@ -16,8 +16,8 @@ En mis tiempos libres disfruto de un buen álbum de música, un videojuego o una
 ---------------
 
 ### Contacto:
-📫 email: mjesusjerezj@gmail.com
-🔗 linkedin: www.linkedin.com/in/maría-jesús-jerez-jorquera-00b784220/         
+<li>📫 email: mjesusjerezj@gmail.com</li>
+<li>🔗 linkedin: www.linkedin.com/in/maría-jesús-jerez-jorquera-00b784220/  </li>       
 
 
 

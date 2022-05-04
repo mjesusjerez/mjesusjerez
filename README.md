@@ -5,8 +5,10 @@ Soy Front-end developer, mi vocación nació entre una combinación de gusto por
 En mis tiempos libres disfruto de un buen álbum de música, un videojuego o una película 😊
 
 ---------------
-<img src="https://preview.redd.it/r7nwau5hb4m51.jpg?auto=webp&s=81c82aaf86b3587ff7d0fb3c95fb533ea898f4cd" alt="My cool logo" width="300"/>
+<img src="https://preview.redd.it/r7nwau5hb4m51.jpg?auto=webp&s=81c82aaf86b3587ff7d0fb3c95fb533ea898f4cd" alt="My cool logo" width="800"/>
+
 ----------------
+
 ### Tech skilss
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360" width="50"/> <img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="35"/> <img src="https://brandslogos.com/wp-content/uploads/thumbs/firebase-logo-vector.svg" width="50"/> <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" width="50"/> 
 

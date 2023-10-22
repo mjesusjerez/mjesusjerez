@@ -1,8 +1,8 @@
 ### Jesu por aquí! 👋
 
-👩‍💻 Soy Front-end developer, mi vocación nació entre una combinación del gusto por los videojuegos y mis ganas de comprender lo complejo del lenguaje y la comunicación. Estudié lingüística hasta que encontré el cruce de ambos mundos en la programación✨. Por ahora comprendo y manejo HTML, CSS, JS y REACT, pero la curiosidad me está llevando siempre a nuevos desafíos:
+👩‍💻 Soy Front-end developer, mi vocación nació entre una combinación del gusto por los videojuegos y mis ganas de comprender lo complejo del lenguaje y la comunicación. Estudié lingüística hasta que encontré el cruce de ambos mundos en la programación✨. Por ahora comprendo y manejo HTML, CSS, JS, BOOTSTRAP y REACT, pero la curiosidad me está llevando siempre a nuevos desafíos:
 
-💻📚 Actualmente me encuentro estudiando Bootstrap e interiorizandome en REACT.
+💻📚 Actualmente me encuentro estudiando PHP y JQuery.
 
 En mis tiempos libres disfruto de un buen álbum de música💽, un videojuego🕹 o una película📽 
 
@@ -18,7 +18,7 @@ En mis tiempos libres disfruto de un buen álbum de música💽, un videojuego�
 ---------------
 
 ### Contacto:
-<li>📫 email: mjesusjerezj@gmail.com</li>
+<li>📫 [email]: mailto:mjesusjerezj@gmail.com</li>
 <li>🔗 linkedin: www.linkedin.com/in/maría-jesús-jerez-jorquera-00b784220/  </li>       
 
 

@@ -18,8 +18,8 @@ En mis tiempos libres disfruto de un buen álbum de música:cd:, un videojuego:v
 ---------------
 
 ### Contacto:
-<li> :email: [Email](mailto:mjesusjerezj@gmail.com)</li>
-<li> :card_index: [Linkedin](www.linkedin.com/in/maría-jesús-jerez-jorquera-00b784220/)</li>       
+<li> :email: <a href="mailto:mjesusjerezj@gmail.com">Envíame un correo</a> </li>
+<li> :card_index: <a href="www.linkedin.com/in/maría-jesús-jerez-jorquera-00b784220/">Linkedin</a></li>       
 
 
 

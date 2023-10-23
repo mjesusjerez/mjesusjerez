@@ -4,7 +4,7 @@
 
 💻📚 Actualmente me encuentro estudiando PHP y JQuery.
 
-En mis tiempos libres disfruto de un buen álbum de música💽, un videojuego🕹 o una película📽 
+En mis tiempos libres disfruto de un buen álbum de música:cd:, un videojuego:video_game: o una película📽 
 
 ---------------
 <img src="https://preview.redd.it/r7nwau5hb4m51.jpg?auto=webp&s=81c82aaf86b3587ff7d0fb3c95fb533ea898f4cd" alt="My cool logo" width="800"/>
@@ -18,8 +18,8 @@ En mis tiempos libres disfruto de un buen álbum de música💽, un videojuego�
 ---------------
 
 ### Contacto:
-<li>📫 [email]: mailto:mjesusjerezj@gmail.com</li>
-<li>🔗 linkedin: www.linkedin.com/in/maría-jesús-jerez-jorquera-00b784220/  </li>       
+<li> :email: [Email](mailto:mjesusjerezj@gmail.com)</li>
+<li> :card_index: [Linkedin](www.linkedin.com/in/maría-jesús-jerez-jorquera-00b784220/)</li>       
 
 
 
